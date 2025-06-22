@@ -1,4 +1,4 @@
-# **Kaggle Project- Titanic - Machine Learning from Disaster
+# Kaggle Project- Titanic - Machine Learning from Disaster
 
 Here We have tried to predict the survival in Titanic dataset using Decision Tree. https://www.kaggle.com/competitions/titanic/overview
 
